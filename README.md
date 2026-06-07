@@ -1,1 +1,1 @@
-# Taking_2DArray_number
+This is C++ program in which we have to take 2D array numbers from user.
